@@ -1,0 +1,23 @@
+Linked List contains a link element called first (head).
+
+Each link carries a data field(s) and a link field called next.
+
+Each link is linked with its next link using its next link.
+
+Last link carries a link as null to mark the end of the list.
+
+Types of Linked List
+Following are the various types of linked list.
+
+Singly Linked ListsSingly linked lists contain two “buckets” in one node; one bucket holds the data and the other bucket holds the address of the next node of the list. Traversals can be done in one direction only as there is only a single link between two nodes of the same list.
+
+Singly Linked Lists
+Doubly Linked Lists
+Doubly Linked Lists contain three “buckets” in one node; one bucket holds the data and the other buckets hold the addresses of the previous and next nodes in the list. The list is traversed twice as the nodes in the list are connected to each other from both sides.
+
+Doubly Linked Lists
+Circular Linked Lists
+Circular linked lists can exist in both singly linked list and doubly linked list.
+
+Since the last node and the first node of the circular linked list are connected, the traversal in this linked list will go on forever until it is broken.
+
